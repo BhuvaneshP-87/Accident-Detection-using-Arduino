@@ -9,3 +9,8 @@ Car  accidents  are considered  one  of the  most destructive phenomena. Though 
 
 ## Flow chart
 ![alt-text](https://github.com/peeeebeeeeeee/Accident-Detection-using-Arduino/blob/main/assets/Accident%20Detection.png?raw=true)
+
+## Demo
+Checkout the assets folder for the demo!
+
+Thank you
